@@ -1,4 +1,3 @@
-````markdown name=README.md
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=14141400&vCenter=true&width=480&height=30&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Abdalla)](https://git.io/typing-svg)
 <span>&nbsp;&nbsp;</span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
@@ -63,4 +62,4 @@ Explore my repositories to see my work and contributions.
 ---
 
 Thanks for visiting my profile!
-````
+
