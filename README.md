@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=14141400&vCenter=true&width=480&height=30&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Abdalla)](https://git.io/typing-svg)
 <span>&nbsp;&nbsp;</span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-<div style="background-image: url('https://raw.githubusercontent.com/abdalla20736/abdalla20736/main/assets/background.png'); height:300px; background-size:cover;">
-</div>
+<img src="https://raw.githubusercontent.com/abdalla20736/abdalla20736/main/assets/background.png" alt="background" width="100%" />
+
 # 👨‍💻 About Me
 
 - 🧑‍💻 I'm a Software Engineer.
