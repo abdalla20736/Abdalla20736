@@ -1,5 +1,7 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=14141400&vCenter=true&width=480&height=30&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Abdalla)](https://git.io/typing-svg)
 <span>&nbsp;&nbsp;</span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 <img src="https://raw.githubusercontent.com/abdalla20736/abdalla20736/main/assets/background.png" alt="background" width="100%" />
 
 # 👨‍💻 About Me
@@ -8,13 +10,6 @@
 - 💡 Passionate about coding, problem-solving, and technology.
 - 🌍 Based in Egypt
 - 🌱 Always learning and exploring new tools and frameworks.
-
-# 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalla20736&show_icons=true&theme=tokyonight&hide=contribs,issues" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla20736&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ## 💪🏻 Skills
 
@@ -60,7 +55,9 @@
 
 Explore my repositories to see my work and contributions.
 
----
+# 📊 GitHub Stats
 
-Thanks for visiting my profile!
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalla20736&show_icons=true&theme=tokyonight&hide=contribs,issues" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla20736&layout=compact&theme=tokyonight" height="160"/>
+</p>
